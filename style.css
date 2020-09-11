@@ -1,0 +1,51 @@
+.navbar{
+  background-color: #68b0ab;
+}
+.button {
+  background-color: #c8d5b9 !important:
+  color: black;
+}
+.jumpotron1{
+   background-image:url('https://zonecafe.in/assets/img/content/cont/cg-fl_03.jpg');
+   background-position: center;
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   opacity: 0.9;
+}
+.col-lg-6{ padding-left: 0px !important;
+padding-right:0px !important; }
+.jumpotron2{
+  background-image: url("https://zonecafe.in/assets/img/content/cont/cg-fl_01.jpg");
+  background-position: center;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+
+}
+.ali h5{
+  padding-right: 100px;
+}
+.ali h3{
+  padding-right: 100px;
+}
+.jumbotron3{
+
+  background-image: url("https://zonecafe.in/assets/img/content/cont/cg-fl_04.jpg");
+  background-position: center;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+
+}
+.hookah:hover{
+
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+transition: 2s;
+}
+.footer{
+  background-color: #242424!important;
+}
